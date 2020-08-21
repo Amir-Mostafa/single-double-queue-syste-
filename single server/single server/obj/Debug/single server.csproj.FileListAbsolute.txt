@@ -1,0 +1,17 @@
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\bin\Debug\single server.exe.config
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\bin\Debug\single server.exe
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\bin\Debug\single server.pdb
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\obj\Debug\single server.csprojResolveAssemblyReference.cache
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\obj\Debug\single_server.Form1.resources
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\obj\Debug\single_server.Properties.Resources.resources
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\obj\Debug\single server.csproj.GenerateResource.Cache
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\obj\Debug\single server.exe
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\obj\Debug\single server.pdb
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\obj\Debug\single_server.table_1.resources
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\obj\Debug\single_server.table_2.resources
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\obj\Debug\single_server.table_3.resources
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\obj\Debug\single_server.table_4.resources
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\obj\Debug\single_server.table_5.resources
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\obj\Debug\single_server.form_s1.resources
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\obj\Debug\single_server.table_s2.resources
+c:\users\mosta\onedrive\documents\visual studio 2013\Projects\single server\single server\obj\Debug\single_server.table_2server.resources
